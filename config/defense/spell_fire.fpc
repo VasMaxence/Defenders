@@ -1,0 +1,8 @@
+  damage:
+48
+  range:
+20
+  reload:
+8000
+  animation:
+ressources/defense/magic/spell_fireball.png

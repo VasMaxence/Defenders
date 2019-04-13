@@ -1,0 +1,10 @@
+  damage:
+32
+  range:
+320
+  AS:
+1300
+  skin:
+ressources/defense/tower/skin/magictower_red.png
+  animate:
+ressources/defense/tower/animation/magictower_red.png

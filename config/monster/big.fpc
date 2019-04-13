@@ -1,0 +1,12 @@
+  life:
+120
+  damage:
+42
+  speed:
+2
+  type:
+3
+  walking animation:
+ressources/monster/walking/big_monster.png
+  death animation:
+ressources/monster/death/big_monster.png

@@ -1,0 +1,12 @@
+  life:
+42
+  damage:
+10
+  speed:
+2
+  type:
+1
+  walking animation:
+ressources/monster/walking/basic_monster.png
+  death animation:
+ressources/monster/death/basic_monster.png

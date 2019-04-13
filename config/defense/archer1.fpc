@@ -1,0 +1,10 @@
+  damage:
+9
+  range:
+140
+  AS:
+900
+  skin:
+ressources/defense/archer/skin/archer_one.png
+  animate:
+ressources/defense/archer/animation/archer_one.png

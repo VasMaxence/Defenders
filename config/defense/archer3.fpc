@@ -1,0 +1,10 @@
+  damage:
+23
+  range:
+250
+  AS:
+800
+  skin:
+ressources/defense/archer/skin/archer_third.png
+  animate:
+ressources/defense/archer/animation/archer_third.png

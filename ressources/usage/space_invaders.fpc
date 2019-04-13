@@ -1,0 +1,19 @@
+DESCRIPTION:
+    My_Defenders is a 2d game inspired by Space Invaders.
+    The goal is to beat the waves of ships of enemy aliens without being
+    touched or touching the ground.
+
+COMMANDS:
+    Move Up: Up Arrow OR Z Key
+    Move down: bottom arrow OR S key
+    Move Right: Right Arrow OR D Key
+    Move Left: Left Arrow OR Q Key
+    Basic Shot: Space key
+    Special Shot: C key
+    Laser shot: V key
+
+UTILITIES:
+    -i: Infinite Mode
+    -g: God Mode (you are invincible)
+    -G: God Mode (you are invincible and you and the enemies do not move)
+    -h: Print Usage
